@@ -10,14 +10,6 @@
     <test name="EndToEndTest">
 
         <classes>
-            <class name="test.IndexPageTest"></class>
-            <class name="test.SearchResultPageTest"></class>
-            <class name="test.ProductPageTest"></class>
-            <class name="test.WhoToSendPageTest"></class>
-            <class name="test.HowToSendPage"></class>
-            <class name="test.WhoToSendPageTest"></class>
-            <class name="test.LoginPageTest"></class>
-            <class name="test.RegisterPageTest"></class>
             <class name="test.EndToEndTest"></class>
         </classes>
 

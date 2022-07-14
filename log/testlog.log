@@ -9252,3 +9252,89 @@ Moving To RegistrationPage
 2022-07-14 12:52:19,051 - objects.LoginPage -INFO - Set Email To: a1b1c1@xtz.com
 2022-07-14 12:52:19,152 - objects.LoginPage -INFO - Set PassWord To: a1b1c1d1X
 2022-07-14 12:52:19,216 - objects.LoginPage -INFO - Clicking On Login Button
+2022-07-14 12:54:57,131 - page.BasePage -INFO - Clicking On Amount Dropdown
+2022-07-14 12:54:57,152 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:54:57,297 - page.BasePage -INFO - Set Amount to: 200 From The Dropdown List
+2022-07-14 12:54:57,379 - page.BasePage -INFO - Clicking On Region Dropdown
+2022-07-14 12:54:57,405 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:54:57,521 - page.BasePage -INFO - Set Region To: דרום From The Dropdown List
+2022-07-14 12:54:57,620 - page.BasePage -INFO - Clicking On Category Dropdown
+2022-07-14 12:54:57,645 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:54:57,824 - page.BasePage -INFO - Set Category To: מתנות עד הבית From The Dropdown List
+2022-07-14 12:54:57,967 - page.BasePage -INFO - Click On Search GiftBtn 
+2022-07-14 12:54:57,968 - page.BasePage -INFO - Moving To SearchResultPage 
+2022-07-14 12:54:59,234 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:54:59,242 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:54:59,362 - objects.SearchResultPage -INFO - Set Product Gift Card to: טבע נאות
+2022-07-14 12:54:59,362 - objects.SearchResultPage -INFO - Moving To ProductPage
+2022-07-14 12:54:59,555 - objects.ProductPage -INFO - Set Gift Card Amount To: 220
+2022-07-14 12:54:59,689 - objects.ProductPage -INFO - Clicked On Confirm Money Button
+2022-07-14 12:54:59,689 - objects.ProductPage -INFO - Moving To WhoToSendPage 
+2022-07-14 12:55:00,256 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:00,316 - objects.WhoToSendPage -INFO - Set Receiver Name To: my Friend
+2022-07-14 12:55:00,366 - objects.WhoToSendPage -INFO - Clicking On Blessing DropDown
+2022-07-14 12:55:00,391 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:00,408 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:00,514 - objects.WhoToSendPage -INFO - Set Blessing To: תודה
+2022-07-14 12:55:00,612 - objects.WhoToSendPage -INFO - Set Own Blessing To : תודה רבה על הכל חג שמח
+2022-07-14 12:55:00,612 - objects.WhoToSendPage -INFO - Set Photo Path: C:\Users\coevy\IdeaProjects\FrondEndBuyMeAutomation\uploadPhotos\flr.jpg
+2022-07-14 12:55:00,651 - objects.WhoToSendPage -INFO - Clicking On Continue Button +
+ Moving To HowToSendPage
+2022-07-14 12:55:01,249 - objects.HowToSendPage -INFO - Clicking On Set gift Card To Later Option
+2022-07-14 12:55:01,336 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:01,401 - objects.HowToSendPage -INFO - Click On Date Picker
+2022-07-14 12:55:01,402 - objects.HowToSendPage -INFO - Set Time To: נובמבר:14
+2022-07-14 12:55:01,721 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:02,059 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 12:55:02,209 - objects.HowToSendPage -INFO - Set Hour To: 11:15
+2022-07-14 12:55:02,409 - objects.HowToSendPage -INFO - Set Sender Name To: TESTER
+2022-07-14 12:55:02,477 - objects.HowToSendPage -INFO - Clicking On Continue Button 
+2022-07-14 12:55:02,477 - objects.HowToSendPage -INFO - Moving To LoginPage
+2022-07-14 12:55:02,699 - objects.LoginPage -INFO - Set Email To: a1b1c1@xtz.com
+2022-07-14 12:55:02,809 - objects.LoginPage -INFO - Set PassWord To: a1b1c1d1X
+2022-07-14 12:55:02,867 - objects.LoginPage -INFO - Clicking On Login Button
+2022-07-14 12:55:05,168 - objects.PaymentPage -INFO - Verify Total Money Amount : 220
+2022-07-14 12:55:05,171 - test.ProductPageTest -INFO - Verify Gift Card Amount Equality 220 With 220
+2022-07-14 13:10:31,804 - page.BasePage -INFO - Clicking On Amount Dropdown
+2022-07-14 13:10:31,829 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:31,947 - page.BasePage -INFO - Set Amount to: 200 From The Dropdown List
+2022-07-14 13:10:32,022 - page.BasePage -INFO - Clicking On Region Dropdown
+2022-07-14 13:10:32,048 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:32,158 - page.BasePage -INFO - Set Region To: דרום From The Dropdown List
+2022-07-14 13:10:32,231 - page.BasePage -INFO - Clicking On Category Dropdown
+2022-07-14 13:10:32,256 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:32,452 - page.BasePage -INFO - Set Category To: מתנות עד הבית From The Dropdown List
+2022-07-14 13:10:32,610 - page.BasePage -INFO - Click On Search GiftBtn 
+2022-07-14 13:10:32,611 - page.BasePage -INFO - Moving To SearchResultPage 
+2022-07-14 13:10:33,380 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:33,399 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:33,524 - objects.SearchResultPage -INFO - Set Product Gift Card to: טבע נאות
+2022-07-14 13:10:33,525 - objects.SearchResultPage -INFO - Moving To ProductPage
+2022-07-14 13:10:33,983 - objects.ProductPage -INFO - Set Gift Card Amount To: 220
+2022-07-14 13:10:34,106 - objects.ProductPage -INFO - Clicked On Confirm Money Button
+2022-07-14 13:10:34,107 - objects.ProductPage -INFO - Moving To WhoToSendPage 
+2022-07-14 13:10:34,680 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:34,739 - objects.WhoToSendPage -INFO - Set Receiver Name To: my Friend
+2022-07-14 13:10:34,778 - objects.WhoToSendPage -INFO - Clicking On Blessing DropDown
+2022-07-14 13:10:34,799 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:34,821 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:34,934 - objects.WhoToSendPage -INFO - Set Blessing To: תודה
+2022-07-14 13:10:35,039 - objects.WhoToSendPage -INFO - Set Own Blessing To : תודה רבה על הכל חג שמח
+2022-07-14 13:10:35,039 - objects.WhoToSendPage -INFO - Set Photo Path: C:\Users\coevy\IdeaProjects\FrondEndBuyMeAutomation\uploadPhotos\flr.jpg
+2022-07-14 13:10:35,080 - objects.WhoToSendPage -INFO - Clicking On Continue Button +
+ Moving To HowToSendPage
+2022-07-14 13:10:35,675 - objects.HowToSendPage -INFO - Clicking On Set gift Card To Later Option
+2022-07-14 13:10:35,740 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:35,800 - objects.HowToSendPage -INFO - Click On Date Picker
+2022-07-14 13:10:35,801 - objects.HowToSendPage -INFO - Set Time To: נובמבר:14
+2022-07-14 13:10:36,150 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:37,002 - page.BasePage -INFO - Element Is Presence.
+2022-07-14 13:10:37,124 - objects.HowToSendPage -INFO - Set Hour To: 11:15
+2022-07-14 13:10:37,331 - objects.HowToSendPage -INFO - Set Sender Name To: TESTER
+2022-07-14 13:10:37,400 - objects.HowToSendPage -INFO - Clicking On Continue Button 
+2022-07-14 13:10:37,401 - objects.HowToSendPage -INFO - Moving To LoginPage
+2022-07-14 13:10:37,611 - objects.LoginPage -INFO - Set Email To: a1b1c1@xtz.com
+2022-07-14 13:10:37,720 - objects.LoginPage -INFO - Set PassWord To: a1b1c1d1X
+2022-07-14 13:10:37,779 - objects.LoginPage -INFO - Clicking On Login Button
+2022-07-14 13:10:40,116 - objects.PaymentPage -INFO - Verify Total Money Amount : 220
+2022-07-14 13:10:40,118 - test.ProductPageTest -INFO - Verify Gift Card Amount Equality 220 With 220
